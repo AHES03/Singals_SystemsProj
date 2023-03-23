@@ -4,7 +4,7 @@
 %  TEXT
 % 
 % CW2 Tutorial
-load ('C:\Users\dabst\OneDrive\Desktop\signals\Data\Data\1\1-AP.mat')
+load ('C:\Users\dabst\OneDrive\Desktop\signals\Data\Data\2\1-AP.mat')
 % for example, in this case, I choose 
 %1. channel 5 ECG
 myECG = b(:,5);
